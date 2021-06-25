@@ -17,3 +17,6 @@ def solution(arr, target):
             return [left, right]
             
 print(solution([2,5,9,11], 11))
+
+#Time Complexity = O(n), the while loop only processes n elements at most.
+#Space Complexity = O(1), no auxillary data structures
