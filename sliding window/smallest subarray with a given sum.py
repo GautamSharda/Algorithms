@@ -26,3 +26,11 @@ def solution(arr, s):
     
 
 print(solution([3, 4, 1, 1, 6], 100 ))
+
+#Time Complexity #
+#O(N). 
+#The outer for loop runs for all elements and the inner while loop processes each element only once, so T(N) = O(N+N) which is asymptotically equivalent to O(N).
+
+#Space Complexity 
+#No auxillary data strutures = The algorithm runs in constant space O(1).
+
