@@ -1,4 +1,4 @@
-#bottom up dp
+#bottom up dp with dp array as cache for memoization
 #Time complexity: O(N), n is number of elements in the input array
 #Space complexity: O(N), space is required for the memo array
 
