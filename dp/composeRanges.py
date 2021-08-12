@@ -1,3 +1,4 @@
+#one-pass solution, O(n) time, O(n) space for ranges/returning array
 def composeRanges(nums):
     
     if len(nums) == 0:
