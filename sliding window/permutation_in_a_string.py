@@ -1,3 +1,4 @@
+#Hard
 #look at all substrings of the input string that have len == len(pattern string)
 #check if any of the substrings of the input string that have len == (pattern string) have all the characters of the pattern string, which can be done by storing each character of the pattern string in a dictionary
 #to find all substrings that have the right length and then do a check, use a FIXED sliding window approach
