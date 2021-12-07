@@ -1,4 +1,4 @@
-#brute force
+#brute force -- insert_num = O(N) -- inserting in list (insert())takes O(n)
 from math import ceil
 class MedianOfStream:
     def __init__(self):
@@ -27,7 +27,9 @@ def main():
     x.insert_num(4)
     print(x.find_median())
 main()
-#two heaps
+#two heaps 
+#time: insert_num = O(logN), findMedian = O(1) -- insert in heap takes O(logN), pop is obvi O(1)
+#space = O(N)
 import heapq
 #there is some negative signs going on below -- this is just to convert the default heap of python (min heap) into a max heap by adding a negative in front everytime you insert or pop into/from the max heap
 class MedianOfStream:
