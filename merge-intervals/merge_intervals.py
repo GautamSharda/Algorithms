@@ -1,3 +1,4 @@
+#Difficulty = Medium
 #Solution = Sort intervals by start time, iterate, merge along the way
 #Time = timsort + one iteration = N*log(N) + N = O(N*log(N))
 #Space = timsort + output list = N + N = O(N)
