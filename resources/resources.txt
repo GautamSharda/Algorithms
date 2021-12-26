@@ -1,0 +1,6 @@
+Grokking the Coding Interview
+Blind 50: https://techinterviewhandbook.org/best-practice-questions/
+
+Optional:
+Blind 75
+Sean Prasad's Leetcode List = aka Blind 150
