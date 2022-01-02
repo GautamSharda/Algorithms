@@ -1,7 +1,7 @@
 #medium
 #product except self = product of stuff to left * product of stuff to right
-#product of stuff to left/right = curr_element*prev_product_of_stuff
-#calculate product of stuff to left and put in answer array
+#product of stuff to left/right = curr_element*prev_product_of_stuff -- therefore can linear scan, saving prev product in answer, multiply with curr
+#using that ^^ calculate product of stuff to left and put in answer array
 #then calculate product of stuff to right and multiply with stuff to left in answer array
 #return answer list
 #time = O(n)
