@@ -8,6 +8,8 @@ from collections import deque
 def solution(vertices, edges):
     
     sorted_order = []
+    if vertices <= 0:
+        return sorted_order
     
     adjacency_list = {i:[] for i in range(vertices)}
     in_degree = {i:0 for i in range(vertices)}
