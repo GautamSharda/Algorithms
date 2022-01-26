@@ -2,7 +2,7 @@
 #find int representation by converting to unicode and subtracting ord('0')
 #then add each digit, store sum, store carry, append each digit to a list
 #lastly, traverse digit list (reverse), convert each to string, concantenate, return
-def addStrings(self, num1: str, num2: str) -> str:
+def addStrings(num1, num2):
         
     res = []
     carry = 0
