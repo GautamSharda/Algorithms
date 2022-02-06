@@ -1,5 +1,6 @@
 #in order dfs, O(n) time for visitng each node once and O(n) space 
 #for internal/under the hood recursion stack
+#in order = left, node, right (remember Kleiman trick to remember!)
 #note: LC solution slides was nice for clear understanding/picture of this
 #cleaner looking solution version
 def treeToDoublyList(self, root: 'Optional[Node]') -> 'Optional[Node]':
