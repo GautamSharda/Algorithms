@@ -1,5 +1,5 @@
-Grokking the Coding Interview
-Blind 50: https://techinterviewhandbook.org/best-practice-questions/
+1 - Grokking the Coding Interview
+2 - Blind 50: https://techinterviewhandbook.org/best-practice-questions/
 
 Optional:
 Blind 75
