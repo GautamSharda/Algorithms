@@ -4,6 +4,7 @@
 Optional:
 Blind 75
 Sean Prasad's Leetcode List = aka Blind 150
+Update: Grind 75 + Neetcode 175 
 
 Also, there are problems I did do, but are not in this repo -- found here: https://docs.google.com/document/d/19nXjwF_9ywkN1ZjGWw90gOljDiDSxHt7MsyGWApHmgc/edit?usp=sharing
 
