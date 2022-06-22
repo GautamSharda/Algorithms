@@ -9,3 +9,4 @@ Update: Grind 75 + Neetcode 175
 Also, there are problems I did do, but are not in this repo -- found here: https://docs.google.com/document/d/19nXjwF_9ywkN1ZjGWw90gOljDiDSxHt7MsyGWApHmgc/edit?usp=sharing
 
 some that I need to add here if not already done:  prefix sum, find element in shifted sorted, whatever's left in LC, find LL intersection (hare and tortoise)
+Update: I give up I can't keep track of every problem I do but the resources lists above contain 95% of them
