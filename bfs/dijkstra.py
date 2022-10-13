@@ -39,7 +39,6 @@ def dijkstra(adj, start):
     for i in range(1, 8):
         path = []
         next_ = i
-        print(i)
         while next_ != 0:
             path.append(next_)
             next_ = res[next_][1]
